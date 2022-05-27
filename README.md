@@ -1,14 +1,12 @@
 DESCRIPTION
 
-DESCRIPTION
-
 This app corresponds to Part II of test Zamoga Part II, it is the REST API of the applicant Jacobo Arce, to access the data in the database.
 
 WHAT YOU NEED TO USE THE APP
 
 1.- Download the files
 2.- Run npm i
-3.- mongodb passport-example database
+3.- database mongodb passport-example  (passport-example.zip attacthed)
 4. AWS
 
 TECHNOLOGY USED
