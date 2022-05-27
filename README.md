@@ -27,12 +27,12 @@ Postman 9.18.3
 WAY TO TEST
 The App test zamoga Part Ii is available running on the AWS route with the requested services:
 
-GET All users    http://34.201.103.149:5000/api/users
+GET All users    http://34.201.103.149:3001/api/users
 
-GET specified user http://34.201.103.149:5000/api/users/628d889b3ab3df28589ab989
+GET specified user http://34.201.103.149:3001/api/users/628d889b3ab3df28589ab989
 
 PUT (modify)
-http://34.201.103.149:5000/api/users/628d889b3ab3df28589ab989
+http://34.201.103.149:3001/api/users/628d889b3ab3df28589ab989
 for which the example JSON is passed:
 {
   "name": "Jacobo Arce Mendizabal",
